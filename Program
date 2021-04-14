@@ -1,0 +1,204 @@
+/*
+Written by: RazorLemon
+This also wouldn't have been possible without Bailey who supported and helped me throughout.
+Description: A Dark Theme for the site 10fastfingers.com for the night owls.
+*/
+
+/*  --CODE--  */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+div,
+td,
+h3 {
+
+    color: #FFF !important;
+}
+.highlight-wrong {
+    color: #F65B63 !important;
+    background-color: #2F2F2F !important;
+}
+.highlight {
+    color: #FFF !important;
+    background-color: #2F2F2F !important;
+}
+.correct {
+    color: #6EE775 !important;
+}
+body {
+    font-family: 'Roboto';
+    font-size: 1.45em;
+}
+body::before {
+    content: '' !important;
+    position: fixed !important;
+    top: 0 !important;
+    margin: -40px !important;
+    height: calc(100% + 80px) !important;
+    width: calc(100% + 80px) !important;
+    z-index: 0 !important;
+    background-color: #121212 !important;
+    background-size: cover !important;
+    background-position: center !important;
+    
+}
+
+#speedtest-main #words {
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 1.8em;
+    line-height: 1.75em;
+}
+ #speedtest-main #auswertung-box #auswertung-result #result-table {
+    background-color:  #2F2F2F 
+} 
+#speedtest-main #auswertung-box #auswertung-result {
+    background: #2f2f2f;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+#speedtest-main #auswertung-box #auswertung-result #result-table td#wpm strong {
+    color: #FFF;
+    font-size: 42px;
+}
+
+#input-row {
+    background-color: #121212 !important;
+}
+#words {
+    background-color: #1D1D1D !important;
+    margin-left: auto;
+    margin-right: auto;
+    resize: both;
+    font-size: 28px !important;
+    min-height: 105px;
+    min-width: 108px;
+    max-width: 1200px;
+    max-height: 585px;
+}
+#inputfield {
+    color: #1f0
+}
+.wrong,
+#wrong .value strong {
+    color: #F65B63 !important;
+}
+
+#badge-box {
+    display: none;
+    margin-bottom: 40px;
+    font-size: 1.2em;
+    padding: 20px;
+    background: #2f2f2f;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#badge-box .badge {
+    background: #2f2f2f;
+    margin-bottom: 20px;
+}
+
+#activity-module div.list-group-item {
+    border-color: #696969;
+}
+
+#inputfield {
+    color: #3F3F3F
+}
+#inputfield {
+    
+    background: #1D1D1D !important;
+    color: #FFF !important;
+    font-family: 'Roboto' !important;
+    font-size: 1.75em !important;
+}
+
+.list-group-item {
+    background-color: var(--bgh) !important;
+    color: var(--bgt) !important;
+    transition: 300ms ease-in-out !important;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
+    background-color: #1D1D1D;
+}
+
+.table-striped > tbody > tr > td, .table-striped > tbody > tr > th {
+    border: none;
+}
+
+.table>colgroup+thead>tr:first-child>td, .table>thead:first-child>tr:first-child>td {
+    border-top: 0;
+    background-color: #2f2f2f;
+}
+
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+    background-color: #2f2f2f;
+    border-top: 1px solid #1d1d1d;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #2f2f2f;
+}
+
+element.style {
+    min-height: 400px;
+    background-color: #2f2f2f;
+    border: none;
+}
+
+.table>caption+thead>tr:first-child>th, .table>colgroup+thead>tr:first-child>th, .table>thead:first-child>tr:first-child>th, .table>caption+thead>tr:first-child>td, .table>colgroup+thead>tr:first-child>td, .table>thead:first-child>tr:first-child>td {
+    border-top: 0;
+    border-color: #000000;
+}
+
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+    background-color: #2f2f2f;
+    border-top: 1px solid #1d1d1d;
+}
+
+.highscore-box #description {
+    background-color: #2f2f2f;
+}
+
+.highscore-box #table-data {
+    background: #2f2f2f;
+}
+
+.highscore-box li a {
+    background: #2f2f2f;
+    border-top: 1px solid #8ab7d5;
+    border-left: 1px solid #8ab7d5;
+    border-right: 1px solid #8ab7d5;
+}
+
+element.style {
+    display: block;
+    background-color: #2f2f2f;
+}
+
+.form-control {
+    color: #fff;
+    vertical-align: middle;
+    background-color: #0000;
+    background-image: none;
+    border: 2px solid #000;
+}
+
+a.list-group-item {
+    border-color: #696969;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: #1d1d1d;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    color: #555;
+    cursor: default;
+    background-color: #1d1d1d;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+/* That's it for the Code lol why are you even reading this */
