@@ -1,6 +1,6 @@
 /*
 Written by: RazorLemon
-This also wouldn't have been possible without Bailey who supported and helped me throughout.
+This also wouldn't have been possible without Bailey who supported me and helped me throughout. So a really really huge thanks to him as well <3
 Description: A Dark Theme for the site 10fastfingers.com for the night owls.
 */
 
@@ -73,6 +73,25 @@ body::before {
     min-width: 108px;
     max-width: 1200px;
     max-height: 585px;
+}
+
+#language-list h4 {
+    background: #232323;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#language-list a {
+ color: #FFF
+}
+
+#language-list {
+    
+    background-color: #2f2f2f;
+    color: white;
 }
 #inputfield {
     color: #1f0
