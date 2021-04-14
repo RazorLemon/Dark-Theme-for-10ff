@@ -10,7 +10,10 @@ After installing it, click on it's icon and then click on Manage > Write New Sty
 You're going well! After this, Copy the code from the other file and enter it into the space on the right side.
 
 Alright we're almost done! What you have to do is on the bottom, you'll be seeing a text written which says Applies to Everything. We don't want this code to apply to everything single thing on your browser, right? So here we need to create an exception by entering a URL. You'll be seeing a PLUS icon next to that text(refer to IMG.1). Click on that.
-![image](https://user-images.githubusercontent.com/82530680/114747812-df1b3e00-9d6e-11eb-8668-767503005aa4.png) ---------- IMG.1
+
+![image](https://user-images.githubusercontent.com/82530680/114747812-df1b3e00-9d6e-11eb-8668-767503005aa4.png)            ---------- IMG.1
+
+
 
 Now in the Add Style Pane, you should be seeing an input box saying "Enter a name". Click on that and enter any name, and also make sure the Enabled check box is checked.
 
