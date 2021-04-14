@@ -16,6 +16,15 @@ Alright we're almost done! What you have to do is on the bottom, you'll be seein
 
 
 Now you should get a box which says URL with a drop down arrow, don't make any changes to that. Next to it, you should also be seeing another input box, this is where we'll enter the only URL/s on which this program will work.
+
+In that box, enter this url: https://10fastfingers.com/typing-test/english#
+
 Now in the Add Style Pane, you should be seeing an input box saying "Enter a name". Click on that and enter any name, and also make sure the Enabled check box is checked.
 
-Now just click on the Save button below that name input box, and that's it! You're good to go! GJ
+Now just click on the Save button below that name input box, and that's it, you just have to go to the website now and you're good to go! GJ
+
+NOTE - In case you want to disable the style and continue using the default theme, then go to the same URl again, click on the Stylus Icon and Uncheck the checkbox next to the name you have entered for the style.
+
+That's it you can stop reading this now.
+
+
