@@ -51,7 +51,7 @@ Leaderboards:
 
 
 
-![image](https://user-images.githubusercontent.com/82530680/114754767-8f407500-9d76-11eb-97fb-2b60f4eb9297.png)
+![image](https://user-images.githubusercontent.com/82530680/114757483-8bfab880-9d79-11eb-8cfe-38525fdf3840.png)
 
 
 
