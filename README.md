@@ -9,9 +9,9 @@ After installing it, click on it's icon and then click on Manage > Write New Sty
 
 You're going well! After this, Copy the code from the other file and enter it into the space on the right side.
 
-Alright we're almost done! What you have to do is on the bottom, you'll be seeing a text written which says Applies to Everything. We don't want this code to apply to everything single thing on your browser, right? So here we need to create an exception by entering a URL. You'll be seeing a PLUS icon next to that text(refer to IMG.1). Click on that.
+Alright we're almost done! What you have to do is on the bottom, you'll be seeing a text written which says Applies to Everything. We don't want this code to apply to everything single thing on your browser, right? So here we need to create an exception by entering a URL. You'll be seeing a PLUS icon next to that text(refer to IMG.eg.1). Click on that.
 
-![image](https://user-images.githubusercontent.com/82530680/114747812-df1b3e00-9d6e-11eb-8668-767503005aa4.png)            ---------- IMG.1
+![image](https://user-images.githubusercontent.com/82530680/114747812-df1b3e00-9d6e-11eb-8668-767503005aa4.png)            ---------- IMG.eg.1
 
 
 
@@ -25,6 +25,41 @@ Now just click on the Save button below that name input box, and that's it, you 
 
 NOTE - In case you want to disable the style and continue using the default theme, then go to the same URl again, click on the Stylus Icon and Uncheck the checkbox next to the name you have entered for the style.
 
-That's it you can stop reading this now.
 
 
+Some Screenshots of how the website looks for a preview...
+
+Main Screen:
+
+
+
+![image](https://user-images.githubusercontent.com/82530680/114755242-10980780-9d77-11eb-9040-04e38ea3aaa2.png)
+
+
+
+
+Result Screen:
+
+
+
+![image](https://user-images.githubusercontent.com/82530680/114755108-ed6d5800-9d76-11eb-9d69-e90e9eb171c4.png)
+
+
+
+
+Leaderboards:
+
+
+
+![image](https://user-images.githubusercontent.com/82530680/114754767-8f407500-9d76-11eb-97fb-2b60f4eb9297.png)
+
+
+
+
+Also wanted to mention that I added an extra feature in this program so that you can change the size of the word list box(refer to IMG.eg.2) according to your choice by hovering your mouse over the bottom right corner, and clicking and holding your mouse when the mouse pointer changes to an arrow. Then you can move your mouse respective of the change you want to make.
+
+
+
+![image](https://user-images.githubusercontent.com/82530680/114755837-b8153a00-9d77-11eb-84b4-d0be482abb3e.png)
+
+^^^^^^ IMG.eg.2
