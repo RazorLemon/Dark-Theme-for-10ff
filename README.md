@@ -3,7 +3,10 @@ This is the latest version of The 10ff Dark-Theme for the night owls.
 
 You can find the code in the other file along with this. Here I'll be explaining how to use the code so that as soon as you open the website, you get the theme :D Let's begin...
 
-The First thing you need to do is install an extension called Stylus. You can install it from this link: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
+The First thing you need to do is install an extension called Stylus. You can install it from this link: 
+For Chrome - https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
+For Opera - https://addons.opera.com/en/extensions/details/stylus/
+For FireFox - https://addons.mozilla.org/en-US/firefox/addon/styl-us/
 
 After installing it, click on it's icon and then click on Manage > Write New Style. After you've done this, you'll get a pane on the left named "Add Style" along with a lot of space on the right hand side to enter your program.
 
